@@ -1,0 +1,33 @@
+.event-list {
+  list-style: none;
+  margin-top: 1em;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.map {
+  display: inline;
+}
+
+span {
+  margin-left: 5%;
+  margin-right: 5%;
+  display: inline;
+}
+
+.map {
+  display: inline;
+}
+
+.event-info {
+  display: inline;
+}
+
+h1 {
+  display: inline;
+  text-align: center;
+}
+
+p.date {
+  text-align: center;
+}
