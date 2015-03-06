@@ -21,6 +21,7 @@ span {
 
 .event-info {
   display: inline;
+  float: right;
 }
 
 h1 {
@@ -30,4 +31,23 @@ h1 {
 
 p.date {
   text-align: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.map iframe {
+  width: 100%;
+  height: 20em;
+}
+
+.event-info table tr.even,
+.event-info table tr.alt,
+.event-info table tr:nth-of-type(even) {
+  background: none;
+}
+
+.event-info table {
+  border: none;
 }
